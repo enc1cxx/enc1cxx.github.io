@@ -28,3 +28,9 @@
 
 ### 👨🏻‍💻 Leetcode
 [![Leetcode Stats](https://leetcard.jacoblin.cool/enc1cxx)](https://leetcard.jacoblin.cool/JacobLinCool)
+
+---
+---
+
+### Кликабельная ссылка на резюме 🙂
+[![alt text](https://bakalavr-magistr.ru/photo/school_news/702.jpg)](https://kazan.hh.ru/resume/3c611430ff0cb280d30039ed1f4e506d6c4973)
